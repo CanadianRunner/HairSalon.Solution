@@ -30,6 +30,7 @@ _This is an illustration of the relationship between the two tables used in this
 
 4) Navigate to `appsettings.json` this is located within the HairSalon directory.
 5) Please enter the database, userId, and password (refer to the image below for entry points).
+
 ![AppSettings](AppSettingsJSON.png)
 
 6) Open the directory and `cd to HairSalon`.
