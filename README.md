@@ -25,30 +25,30 @@ _This is an illustration of the relationship between the two tables used in this
 
 1) Clone this repository to your desktop.
 2) Navigate to the now installed directory and open in your editor of choice.
-4) Create your own database using the data from `sean_keane.sql`.  Import this data into your MySQL workbench.
+3) Create your own database using the data from `sean_keane.sql`.  Import this data into your MySQL workbench.
 
 
-5) Navigate to `appsettings.json` this is located within the HairSalon directory.
-6) Please enter the database, userId, and password (refer to the image below for entry points).
+4) Navigate to `appsettings.json` this is located within the HairSalon directory.
+5) Please enter the database, userId, and password (refer to the image below for entry points).
 ![AppSettings](AppSettingsJSON.png)
 
-3) Open the directory and `cd to HairSalon`.
-5) To build the Hair Salon enter: `dotnet build`.
-6) To run the Hair Salon enter: `dotnet run`.
-7) Open your browser of choice and use the url: http://localhost:5000/
+6) Open the directory and `cd to HairSalon`.
+7) To build the Hair Salon enter: `dotnet build`.
+8) To run the Hair Salon enter: `dotnet run`.
+9) Open your browser of choice and use the url: http://localhost:5000/
 
-## For a visual representation of Setup, please consult the attached Gifs.
+## For a visual representation of setup and a successfully built application, please consult the attached Gifs.
 
-![Alt Text](BuildingAppGifPierresBakery.gif)
+![Setup](ClairesHairSalon.gif)
 
-![Alt Text](PierresWebPage.gif)
+![BuiltApp](ApplicationInUse.gif)
 
 ## Project can be found at:
-https://github.com/CanadianRunner/Vendor-And-Order-Tracker.git
+https://github.com/CanadianRunner/HairSalon.Solution.git
 
 ## Known Bugs
 
-* This application currently has no styling. If time permits I would like to add some visual appeal to this vendor and order tracker.
+* This application currently has limited styling. If time permits I would like to add some more visual appeal to this application.
 
 
 ## License
@@ -57,5 +57,5 @@ If you have any questions or concerns feel free to contact me at code@sean-keane
 
 *This is licensed under the MIT license*
 
-Copyright (c) 7-15-2022 **_Sean Keane_**
+Copyright (c) 7-29-2022 **_Sean Keane_**
 
