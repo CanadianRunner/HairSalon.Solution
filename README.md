@@ -28,7 +28,7 @@ _This is an illustration of the relationship between the two tables used in this
 3) Create your own database using the data from `sean_keane.sql`.  Import this data into your MySQL workbench.
 
 
-4) Navigate to `appsettings.json` this is located within the HairSalon directory.
+4) Navigate to `appsettings.json` (this is located within the HairSalon directory).
 5) Please enter the database, userId, and password (refer to the image below for entry points).
 
 ![AppSettings](AppSettingsJSON.png)
