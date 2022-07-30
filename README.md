@@ -29,7 +29,7 @@ _This is an illustration of the relationship between the two tables used in this
 
 
 4) Create a new file within the HairSalon directory.  Use the command `touch appsettings.json`
-5) Please enter the database, userId, and password (refer to the image below for entry points) within appsettings.json.
+5) Please copy the text in the image below and enter your own entry points (Enter your database, userId, and password within appsettings.json).
 
 ![AppSettings](AppSettingsJSON.png)
 
