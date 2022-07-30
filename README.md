@@ -14,7 +14,7 @@
 
 
 ## Description
-_This is a project I created at Epicodus that allows Eau Claire's Hair Salon to input both Stylists and clients into a database using MySQL.  The user is presented with a "Splash Page" and has the options of selecting Stylists or Clients. The user has the ability to add the name of the stylist, their speciality, and the ability to edit this information. They also can enter client names, descriptions, assign a stylist, and edit this information.  Developing this application helped grow my understanding of C#, .NET, ASP.NET Core MVC, Databases, and Entity Core Framework._
+_This is a project I created at Epicodus that allows Eau Claire's Hair Salon to input both Stylists and Clients into a database using MySQL.  The user is presented with a "Splash Page" and has the options of selecting Stylists or Clients. The user has the ability to add the name of the stylist, their speciality, and the ability to edit this information. They also can enter client names, descriptions, assign a stylist, and edit this information.  Developing this application helped grow my understanding of C#, .NET, ASP.NET Core MVC, Databases, and Entity Core Framework._
 
 ## Schema
 _This is an illustration of the relationship between the two tables used in this application._
