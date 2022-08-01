@@ -29,10 +29,7 @@ _This is an illustration of the relationship between the two tables used in this
 
 
 4) Create a new file within the HairSalon directory.  Use the command `touch appsettings.json`
-5) Please copy the text in the image below and enter your own entry points (Enter your database, userId, and password within appsettings.json).
-
-![AppSettings](AppSettingsJSON.png)
-
+5) In the appseetings.json please create your own entry points (Your database, userId, and password within appsettings.json).
 6) Open the directory and `cd to HairSalon`.
 7) To build the Hair Salon enter: `dotnet build`.
 8) To run the Hair Salon enter: `dotnet run`.
